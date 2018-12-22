@@ -36,7 +36,7 @@
   ],
   "license": "MIT",
   "dependencies": {
-    "@babel/parser": "^7.1.6",
+    "@babel/parser": "^7.2.3",
     "add-variable-declarations": "^4.0.0",
     "automatic-semicolon-insertion": "^2.0.1",
     "coffee-lex": "^9.1.3",
